@@ -1,6 +1,5 @@
 # alpine-apache-php7.2
-
-Alpine based docker image with apache2 and php7.2
+Alpine based docker image with Apache2 and PHP 7.2
 
 ## Requirements
 - [Docker](https://docs.docker.com/install/)
