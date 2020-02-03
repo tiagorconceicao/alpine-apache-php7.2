@@ -1,0 +1,9 @@
+version: "3"
+services:
+  my_webserver:
+    build: .
+    container_name: my_webserver
+    ports:
+      - "80:80"
+    volumes:
+      - ./src:/var/www/project
